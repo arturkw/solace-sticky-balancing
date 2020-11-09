@@ -1,0 +1,4 @@
+/.idea/
+*.iml
+/spring-boot-solace-receiver/target
+/spring-boot-solace-sender/target
